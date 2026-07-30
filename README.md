@@ -34,7 +34,7 @@ _# Agentes de IA em Produção: Deploy e Escalabilidade com Azure Container Apps
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: **Azure Container Apps, Kubernetes, Cloud Native, xxxxxxxxxxxxxxxxxxxxxxxxxx Event Streaming, .NET, C#, ASP.NET Core, Azure SQL, Microsoft Azure...**
+Tecnologias e tópicos abordados: **Azure Container Apps, Kubernetes, Cloud Native, KEDA (Kubernetes Event-driven Autoscaling) xxxxxxxxxxxxxxxxxxxxxxxxxx Event Streaming, .NET, C#, ASP.NET Core, Azure SQL, Microsoft Azure...**
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
