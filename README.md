@@ -10,5 +10,6 @@ Organizadores:
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Carlos Machel (Microsoft MVP)**
 
-Número de participantes: **25 pessoas**
+Número de participantes: **75 pessoas**
 
+https://luma.com/me0tyv6b
