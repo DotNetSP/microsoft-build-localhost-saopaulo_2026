@@ -46,13 +46,13 @@ Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 Tecnologias e tópicos abordados: **Azure Container Apps, Azure Container Apps Sandboxes, Kubernetes, Cloud Native, KEDA (Kubernetes Event-driven Autoscaling), Azure Container Registry, Linux, Containers, Docker, Inteligência Artificial, Agents, Microsoft Foundry...**
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 ---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Este evento foi uma parceria entre as comunidades [**WoMakersCode**](https://www.womakerscode.org/) e [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) com a [**FECAP - Fundação Escola de Comércio Álvares Penteado**](https://www.fecap.br/).
+
+Ficam aqui nossos agradecimentos à **Cynthia Zanoni**, à **Microsoft** e a **FECAP** por todo o apoio para a realização deste evento.
 
 Formulário utilizado para inscrições: [**Luma**](https://luma.com/me0tyv6b)
 
