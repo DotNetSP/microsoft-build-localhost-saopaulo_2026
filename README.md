@@ -52,11 +52,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
-Este evento foi uma parceria entre as comunidades [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), [**Azure na Prática**](https://www.youtube.com/azurenapratica) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
+Este evento foi uma parceria entre as comunidades [**WoMakersCode**](https://www.womakerscode.org/) e [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) com a [**FECAP - Fundação Escola de Comércio Álvares Penteado**](https://www.fecap.br/).
 
 Formulário utilizado para inscrições: [**Luma**](https://luma.com/me0tyv6b)
 
-Local: **Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000**
+Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 01502-001**
 
 ---
 
