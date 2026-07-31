@@ -26,7 +26,16 @@ _# Sistemas multiagentes com Claw e Agent Harness no Microsoft Foundry_
 
 Palestrante: **Carlos Machel (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Microsoft Foundry, Agents, Inteligência Artificial, LLMs, .NET, C#, Claww, Agent Harness...**
+Tecnologias e tópicos abordados: **Microsoft Foundry, Agents, Inteligência Artificial, LLMs, .NET, C#, Claw, Agent Harness...**
+
+
+
+_# Modernizando Aplicações com Event-Driven_
+
+Palestrante: **Lucas Massena (Cloud Solutions Architect)**
+
+Tecnologias e tópicos abordados: **Event Streaming, Mensageria, Azure Event Bus, Azure Service Bus, .NET, Azure Functions, Application Insights, Azure Monitor, Microservices...**
+
 
 
 
@@ -34,7 +43,7 @@ _# Agentes de IA em Produção: Deploy e Escalabilidade com Azure Container Apps
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: **Azure Container Apps, Kubernetes, Cloud Native, KEDA (Kubernetes Event-driven Autoscaling) xxxxxxxxxxxxxxxxxxxxxxxxxx Event Streaming, .NET, C#, ASP.NET Core, Azure SQL, Microsoft Azure...**
+Tecnologias e tópicos abordados: **Azure Container Apps, Azure Container Apps Sandboxes, Kubernetes, Cloud Native, KEDA (Kubernetes Event-driven Autoscaling), Azure Container Registry, Linux, Containers, Docker, Inteligência Artificial, Agents, Microsoft Foundry...**
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
