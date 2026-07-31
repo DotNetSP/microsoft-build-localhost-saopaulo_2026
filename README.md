@@ -30,14 +30,11 @@ Tecnologias e tópicos abordados: **Microsoft Foundry, Agents, Inteligência Art
 
 
 
-_# Modernizando Aplicações com Event-Driven_
+_# Seu agente, em qualquer lugar: MultiClient e MultiDevice com GitHub Copilot SDK_
 
-Palestrante: **Lucas Massena (Cloud Solutions Architect)**
+Palestrante: **Mayumi Shingaki (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Event Streaming, Mensageria, Azure Event Bus, Azure Service Bus, .NET, Azure Functions, Application Insights, Azure Monitor, Microservices...**
-
-
-
+Tecnologias e tópicos abordados: **Inteligência Artificial, Agents, Produtividade, GitHub Copilot, Visual Studio Code, GitHub, .NET, C#, ASP.NET Core...**
 
 _# Agentes de IA em Produção: Deploy e Escalabilidade com Azure Container Apps_
 
