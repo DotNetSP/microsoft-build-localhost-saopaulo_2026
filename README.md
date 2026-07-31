@@ -28,7 +28,11 @@ Palestrante: **Carlos Machel (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **Microsoft Foundry, Agents, Inteligência Artificial, LLMs, .NET, C#, Claw, Agent Harness...**
 
+_# Low-code vs Pro-code: e se você não tivesse que escolher? Conheça o Microsoft Foundry_
 
+Palestrante: **Percy Machado (Microsoft)**
+
+Tecnologias e tópicos abordados: **Microsoft Foundry, Low-Code, Inteligência Artificial, Agents, LLMs, Desenvolvimento de Software...**
 
 _# Seu agente, em qualquer lugar: MultiClient e MultiDevice com GitHub Copilot SDK_
 
@@ -43,12 +47,6 @@ Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
 Tecnologias e tópicos abordados: **Azure Container Apps, Azure Container Apps Sandboxes, Kubernetes, Cloud Native, KEDA (Kubernetes Event-driven Autoscaling), Azure Container Registry, Linux, Containers, Docker, Inteligência Artificial, Agents, Microsoft Foundry...**
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-_# Modernizando Aplicações com Event-Driven_
-
-Palestrante: **Lucas Massena (Cloud Solutions Architect)**
-
-Tecnologias e tópicos abordados: **Event Streaming, Mensageria, Azure Event Bus, Azure Service Bus, .NET, Azure Functions, Application Insights, Azure Monitor, Microservices...**
 
 ---
 
