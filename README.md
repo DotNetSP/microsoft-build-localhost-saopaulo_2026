@@ -60,4 +60,4 @@ Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 015
 
 ---
 
-![Banner do evento](img/banner-dotnet-weekend-2026-05.png)
+![Banner do evento](img/build-localsp-2026.png)
