@@ -6,6 +6,8 @@ Data: **20/06/2026 (sábado)**
 Organizadores:
 - **Cynthia Zanoni (Microsoft)**
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
+- **Eduardo Rezende**
+- **Chrystian Moté**
 - **Mayumi Shingaki (Microsoft MVP)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Carlos Machel (Microsoft MVP)**
