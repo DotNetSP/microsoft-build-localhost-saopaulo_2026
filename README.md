@@ -105,7 +105,9 @@ encerramento
 6
 7
 
-sorteio 
 
-1
-2
+
+
+![Sorte 1](img/sorteio-01.jpeg)
+
+![Sorte 2](img/sorteio-02.jpeg)
