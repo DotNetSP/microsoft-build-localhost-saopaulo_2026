@@ -14,6 +14,9 @@ Organizadores:
 
 Número de participantes: **75 pessoas**
 
+Fica registrado aqui um muito obrigado à Cynthia Zanoni e à FECAP por todo o apoio para a realização do evento. E agradecimentos também ao **Chrystian Moté**
+e **Eduardo Rezende** que passaram boa parte do evento cuidando dos check-ins.
+
 ---
 
 Apresentações/talks que aconteceram durante o evento:
@@ -63,6 +66,9 @@ Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 015
 ---
 
 ![Banner do evento](img/build-localsp-2026.png)
+
+
+![Form do evento](img/luma-01.png)
 
 ![Público do evento 1](img/publico-02.jpeg)
 
