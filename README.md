@@ -98,15 +98,11 @@ Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 015
 
 ![Milton palestrando 1](img/milton-24.jpeg)
 
+![Encerramento 1](img/encerramento-03.jpeg)
 
-encerramento
+![Encerramento 2](img/encerramento-06.jpeg)
 
-3
-6
-7
-
-
-
+![Encerramento 3](img/encerramento-07.jpeg)
 
 ![Sorte 1](img/sorteio-01.jpeg)
 
