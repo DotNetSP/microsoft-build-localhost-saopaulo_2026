@@ -71,3 +71,9 @@ Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 015
 ![Renato palestrando 2](img/renato-09.jpeg)
 
 ![Renato palestrando 3](img/renato-12.jpeg)
+
+![Machel palestrando 1](img/machel-01.jpeg)
+
+![Machel palestrando 2](img/machel-08.jpeg)
+
+![Machel palestrando 3](img/machel-18.jpeg)
