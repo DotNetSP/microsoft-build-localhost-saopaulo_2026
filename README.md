@@ -6,8 +6,8 @@ Data: **20/06/2026 (sábado)**
 Organizadores:
 - **Cynthia Zanoni (Microsoft)**
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
-- **Eduardo Rezende**
 - **Chrystian Moté**
+- **Eduardo Rezende**
 - **Mayumi Shingaki (Microsoft MVP)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Carlos Machel (Microsoft MVP)**
@@ -79,3 +79,11 @@ Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 015
 ![Machel palestrando 2](img/machel-08.jpeg)
 
 ![Machel palestrando 3](img/machel-18.jpeg)
+
+![Percy palestrando 1](img/percy-02.jpeg)
+
+![Percy palestrando 1](img/percy-06.jpeg)
+
+![Percy palestrando 1](img/percy-08.jpeg)
+
+
