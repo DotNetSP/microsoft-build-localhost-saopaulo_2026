@@ -86,4 +86,14 @@ Local: **FECAP - Avenida da Liberdade, 532 - Liberdade - São Paulo/SP - CEP 015
 
 ![Percy palestrando 1](img/percy-08.jpeg)
 
+![Mayumi palestrando 1](img/mayumi-04.jpeg)
 
+![Mayumi palestrando 1](img/mayumi-13.jpeg)
+
+![Mayumi palestrando 1](img/mayumi-22.jpeg)
+
+![Milton palestrando 1](img/milton-05.jpeg)
+
+![Milton palestrando 1](img/milton-18.jpeg)
+
+![Milton palestrando 1](img/milton-24.jpeg)
